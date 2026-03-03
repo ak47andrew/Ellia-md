@@ -1,0 +1,82 @@
+https://www.pinterest.com/?boardId=991143899183063848 - battlemaps
+## Справочки
+- https://5e14.ttg.club/screens - то, что было на 5e.ruleplaying
+- https://5e.tools/ - англоязычный сайт с быстрым поиском
+- Оружие:
+	- https://5e14.ttg.club/weapons
+- Броня:
+	- https://5e14.ttg.club/armors
+- Снаряжение:
+	- https://5e14.ttg.club/items
+- Классы:
+	- https://5e14.ttg.club/classes
+- Расы:
+	- https://5e14.ttg.club/races
+- Предыстории:
+	- https://5e14.ttg.club/backgrounds
+- Заклинания:
+	- https://5e14.ttg.club/spells
+
+## Генераторы
+- Азгар/Генератор карт:
+	- https://azgaar.github.io/Fantasy-Map-Generator/
+- Ватабу
+	- Острова:
+		- https://watabou.github.io/perilous-shores/
+	- Города:
+		- https://watabou.github.io/city-generator
+	- Деревня:
+		- https://watabou.github.io/village-generator/
+	- Пещера:
+		- https://watabou.github.io/cave-generator/
+	- Подземелья:
+		- https://watabou.github.io/one-page-dungeon/
+	- Особняки:
+		- https://watabou.github.io/dwellings/
+- Тентакли
+	- Таверны:
+		- https://tentaculus.ru/tavern/index.html
+	- Предыстории:
+		- https://tentaculus.ru/background/index.html
+	- Рандомизатор:
+		- https://tentaculus.ru/random/index.html
+		- События:
+			- https://tentaculus.ru/random/index.html#item=encounters
+		- Сокровища:
+			- https://tentaculus.ru/random/index.html#item=treasures
+		- Эффекты:
+			- https://tentaculus.ru/random/index.html#item=effects
+	- Имя:
+		- https://tentaculus.ru/names/index.html
+	- Генератор газет:
+		- https://tentaculus.ru/news_generator/
+- Боёвки в целом:
+	- https://tools.goblinist.com/5enc (МНОГО КНОПОК! Лучше прогружать чуть заранее)
+- Токенов:
+	- https://rolladvantage.com/tokenstamp/
+
+## Музыка
+- Spotify
+	- https://open.spotify.com/user/1136646439/playlists - Общий
+	- https://open.spotify.com/playlist/54N86qgVCBoY0i5Fldxkj7 - Спокойная
+	- https://open.spotify.com/playlist/24KkYnm3mrThD9wcU1RdZx - Боевая
+	- https://open.spotify.com/playlist/7BkG8gSv69wibGNU2imRMx - Приключение
+	- https://open.spotify.com/playlist/3h7Z499ZxaYawJ2UMeYtlZ - Таверны
+- YouTube
+	- https://www.youtube.com/watch?v=JyyQlYRqvRs&t=187s - Таверны
+	- https://www.youtube.com/watch?v=7tURXEUhwhg -- Dark Witch of the Woods Ambience and Music | dark fantasy music with ambient sounds of a forest
+	- https://youtu.be/l3UIq-swjco?si=obETdTuyF-J5lKr3 -- Dark Fantasy Realm Ambience and Music
+	- https://youtu.be/ATzlzPLMUhc?si=fa7pl1_F8WFiUabw -- Aphex Twin - Tree
+	- https://youtu.be/1zkoprENdAo?si=Jw2m9AtFKUr5aI6H -- Aural Holograms - The Day Of Opening The Tomb
+	- https://youtu.be/P6Z_r8yi_Yc?si=NU3Mcf6UAMBst9Xw -- Dr.Rick Trager-Chase theme
+	- https://youtu.be/MaG_bwnMsjM?si=56a0DtNnWiDY6Si8 -- Avant Garde music - Return of the Banshee
+	- https://youtu.be/trELfLtJwDQ?si=c14_xh_DEle4M8B7 -- Limbo (noise music)
+	- https://www.youtube.com/watch?v=69GK6izTK5g - музыка для битв 
+	- https://www.youtube.com/watch?v=oVZ8KGtZtwY&t=24s - битва в лагере 
+	- https://www.youtube.com/watch?v=FK6vMuD-W0U - в лесу
+	- https://www.youtube.com/watch?v=ddMSMwKQkKI - музыка для города 
+	- https://www.youtube.com/watch?v=4Y6n-1XQSfE - музыка для леса 
+	- https://www.youtube.com/watch?v=69GK6izTK5g - музыка для битв 
+	- https://www.youtube.com/watch?v=vIFwdiUtl4M - Средневековая Фэнтези Музыка - Средневековый Рынок/Таверна 
+	- https://www.youtube.com/watch?v=787Qp7FuhOg - музыка подземелья 
+	- https://youtu.be/tbrCHwjk7lI?si=9LaQMRIIvvcUkw2H - музыка для конца игры
